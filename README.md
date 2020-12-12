@@ -10,7 +10,7 @@ gradle clean build
 ```
 * Run the test
 ```
-gradle gatlingRun-com.journeys.MakeAnAppointment --rerun-tasks
+./gradlew gatlingRun-com.journeys.MakeAnAppointment
 ```
 * Checkout the reports
 ```
